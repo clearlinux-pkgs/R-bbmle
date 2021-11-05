@@ -4,7 +4,7 @@
 #
 Name     : R-bbmle
 Version  : 1.0.24
-Release  : 29
+Release  : 30
 URL      : https://cran.r-project.org/src/contrib/bbmle_1.0.24.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/bbmle_1.0.24.tar.gz
 Summary  : Tools for General Maximum Likelihood Estimation
